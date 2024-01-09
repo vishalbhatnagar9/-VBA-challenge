@@ -29,7 +29,7 @@ Dim YearlyChange As Double
 ' Set an initial variable for holding the Percent Change and Format output
 Dim PercentChange As Double
 
-' Set an initial variable for holding the Total Stock Volumn
+' Set an initial variable for holding the Total Stock Volume
 Dim TotalStockVolume As Double
 
 ' Tracking location of each Ticker Symbol in the Summary Table
