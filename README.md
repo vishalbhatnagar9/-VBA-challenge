@@ -9,7 +9,7 @@ Analysis:
 
 ![image](https://github.com/vishalbhatnagar9/-VBA-challenge/assets/151709892/c41d2fa9-7539-4681-a55d-fafb5cf9ca97)
 
-    As seen, for Stocks starting with Alphabet "A", 
+    For Stocks starting with Alphabet "A", 
   Greatest % Increase stock is AAR,
   Greatest % Decrease Stock is AYO,
   Greatest Total Volume is carried by the Stock AUE
@@ -18,7 +18,7 @@ Analysis:
   Negative Stocks - 54%,
   Zero Value Stock - 1%
 
-    As seen, for Stocks starting with Alphabet "B", 
+    For Stocks starting with Alphabet "B", 
   Greatest % Increase stock is BLC,
   Greatest % Decrease Stock is BAJQ,
   Greatest Total Volume is carried by the Stock BQK
@@ -26,7 +26,7 @@ Analysis:
   Positive Stocks - 44%,
   Negative Stocks - 42%
   
-    As seen, for Stocks starting with Alphabet "C", 
+    For Stocks starting with Alphabet "C", 
   Greatest % Increase stock is CCN,
   Greatest % Decrease Stock is CKN,
   Greatest Total Volume is carried by the Stock CPWA
@@ -35,7 +35,7 @@ Analysis:
   Negative Stocks - 57%,
   Zero Value Stock - 1%
 
-    As seen, for Stocks starting with Alphabet "D", 
+    For Stocks starting with Alphabet "D", 
   Greatest % Increase stock is DLUW,
   Greatest % Decrease Stock is DRU,
   Greatest Total Volume is carried by the Stock DNR
@@ -44,7 +44,7 @@ Analysis:
   Negative Stocks - 54%,
   Zero Value Stock - 4%
 
-    As seen, for Stocks starting with Alphabet "E", 
+    For Stocks starting with Alphabet "E", 
   Greatest % Increase stock is EPX,
   Greatest % Decrease Stock is EEA,
   Greatest Total Volume is carried by the Stock EPP
@@ -52,7 +52,7 @@ Analysis:
   Positive Stocks - 45%,
   Negative Stocks - 55%
 
-    As seen, for Stocks starting with Alphabet "F", 
+    For Stocks starting with Alphabet "F", 
   Greatest % Increase stock is FGH,
   Greatest % Decrease Stock is FGA,
   Greatest Total Volume is carried by the Stock FNC
