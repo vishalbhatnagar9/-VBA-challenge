@@ -61,6 +61,7 @@ Analysis:
   Negative Stocks - 50%,
   Zero Value Stock - 2%
 
-    For the Multi-Year Stock data set, it would be then determined, which year has the most positive, negative, and zero stocks as well as understanding the stocks with greatest increase and decrease. 
+    For the Multi-Year Stock data set, it would be then determined, which year has the most positive, negative, 
+    and zero stocks as well as understanding the stocks with greatest increase and decrease. 
 
   Reference/Citing - I leveraged ASKBCS as a thought partner for some areas of the code that I was confused on. 
