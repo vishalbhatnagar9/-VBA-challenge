@@ -2,7 +2,7 @@ Module 2 Challenge
 
 Note: Despite all efforts to run the code on "Multi_year Stock Data" sheet, my computer was not able to process such large data. I have attempted to run this code on my personal laptop (that I use for the Bootcamp) 
 as well as two work laptops (thinking they may have more processing power).
-  - However, I was unable to have the results fully generated of the code before Excel kept crashing. 
+  - However, I was unable to have the results fully generated of the code before Excel kept crashing. I would like to be clear that my code works, but my system is not able to process the large data set and crashes. 
 I have the code uploaded and link shared. However, I wanted to provide analysis of the code so I have used the smaller set (Alphabetical Testing Challenge sheet) to show this. Although, I understand, this was not the ask but also I wanted to present what I would have done if my Excel cooperated with the larger set. 
 
 Analysis:
